@@ -1,0 +1,85 @@
+* {
+  background: rgba(175, 194, 61, 1);
+  /* SCSS RGB */
+  /* SCSS RGB */
+  /* $apple-green: rgba(169, 186, 84, 1);
+$moss-green: rgba(135, 156, 61, 1);
+$moss-green-2: rgba(132, 154, 55, 1);
+$dark-moss-green: rgba(70, 93, 25, 1);
+$avocado: rgba(90, 115, 35, 1); */
+  /* rgba(169, 186, 61, 1) */
+  /* #AFD242 */
+}
+
+div {
+  margin: 150px;
+  padding: 20px;
+}
+
+.ff0800 {
+  background: #ff0800;
+}
+
+.CA1661 {
+  background: #ca1661;
+}
+
+.F94D00 {
+  background: #f94d00;
+}
+
+.E23D28 {
+  background: #e23d28;
+}
+
+.FFEF0A {
+  background: #ffef0a;
+}
+
+.BA2637 {
+  background: #ba2637;
+}
+
+.FEA520 {
+  background: #fea520;
+}
+
+.F28500 {
+  background: #f28500;
+}
+
+.F28123 {
+  background: #f28123;
+}
+
+.D34E24 {
+  background: #d34e24;
+}
+
+.p38726C {
+  background: #38726c;
+}
+
+.p7EA172 {
+  background: #7ea172;
+}
+
+.D34E24 {
+  background: #d34e24;
+}
+
+.F94D00 {
+  background-color: #f94d00;
+}
+
+.E23D28 {
+  background-color: #e23d28;
+}
+
+.c19a68 {
+  background-color: #c19a68;
+}
+
+.d2691e {
+  background-color: #d2691e;
+}
